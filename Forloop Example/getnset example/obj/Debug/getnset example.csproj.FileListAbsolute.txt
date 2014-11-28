@@ -1,0 +1,6 @@
+E:\Visual Studio\C#\Forloop Example\getnset example\bin\Debug\getnset example.exe.config
+E:\Visual Studio\C#\Forloop Example\getnset example\bin\Debug\getnset example.exe
+E:\Visual Studio\C#\Forloop Example\getnset example\bin\Debug\getnset example.pdb
+E:\Visual Studio\C#\Forloop Example\getnset example\obj\Debug\getnset example.csprojResolveAssemblyReference.cache
+E:\Visual Studio\C#\Forloop Example\getnset example\obj\Debug\getnset example.exe
+E:\Visual Studio\C#\Forloop Example\getnset example\obj\Debug\getnset example.pdb

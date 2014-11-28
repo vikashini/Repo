@@ -1,0 +1,6 @@
+E:\Visual Studio\C#\Forloop Example\Stack Example\bin\Debug\Stack Example.exe.config
+E:\Visual Studio\C#\Forloop Example\Stack Example\bin\Debug\Stack Example.exe
+E:\Visual Studio\C#\Forloop Example\Stack Example\bin\Debug\Stack Example.pdb
+E:\Visual Studio\C#\Forloop Example\Stack Example\obj\Debug\Stack Example.exe
+E:\Visual Studio\C#\Forloop Example\Stack Example\obj\Debug\Stack Example.pdb
+E:\Visual Studio\C#\Forloop Example\Stack Example\obj\Debug\Stack Example.csprojResolveAssemblyReference.cache

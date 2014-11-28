@@ -1,0 +1,6 @@
+E:\Visual Studio\C#\Forloop Example\Alternate Elements\bin\Debug\Alternate Elements.exe.config
+E:\Visual Studio\C#\Forloop Example\Alternate Elements\bin\Debug\Alternate Elements.exe
+E:\Visual Studio\C#\Forloop Example\Alternate Elements\bin\Debug\Alternate Elements.pdb
+E:\Visual Studio\C#\Forloop Example\Alternate Elements\obj\Debug\Alternate Elements in list.csprojResolveAssemblyReference.cache
+E:\Visual Studio\C#\Forloop Example\Alternate Elements\obj\Debug\Alternate Elements.exe
+E:\Visual Studio\C#\Forloop Example\Alternate Elements\obj\Debug\Alternate Elements.pdb

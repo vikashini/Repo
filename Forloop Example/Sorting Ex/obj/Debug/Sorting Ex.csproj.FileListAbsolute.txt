@@ -1,0 +1,5 @@
+E:\Visual Studio\C#\Forloop Example\Sorting Ex\bin\Debug\Sorting Ex.exe.config
+E:\Visual Studio\C#\Forloop Example\Sorting Ex\bin\Debug\Sorting Ex.exe
+E:\Visual Studio\C#\Forloop Example\Sorting Ex\bin\Debug\Sorting Ex.pdb
+E:\Visual Studio\C#\Forloop Example\Sorting Ex\obj\Debug\Sorting Ex.exe
+E:\Visual Studio\C#\Forloop Example\Sorting Ex\obj\Debug\Sorting Ex.pdb

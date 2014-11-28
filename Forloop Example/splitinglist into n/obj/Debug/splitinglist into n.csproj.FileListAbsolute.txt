@@ -1,0 +1,6 @@
+E:\Visual Studio\C#\Forloop Example\splitinglist into n\bin\Debug\splitinglist into n.exe.config
+E:\Visual Studio\C#\Forloop Example\splitinglist into n\obj\Debug\splitinglist into n.csprojResolveAssemblyReference.cache
+E:\Visual Studio\C#\Forloop Example\splitinglist into n\bin\Debug\splitinglist into n.exe
+E:\Visual Studio\C#\Forloop Example\splitinglist into n\bin\Debug\splitinglist into n.pdb
+E:\Visual Studio\C#\Forloop Example\splitinglist into n\obj\Debug\splitinglist into n.exe
+E:\Visual Studio\C#\Forloop Example\splitinglist into n\obj\Debug\splitinglist into n.pdb
